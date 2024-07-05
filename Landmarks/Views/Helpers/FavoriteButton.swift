@@ -1,9 +1,9 @@
-//
-//  FavoriteButton.swift .swift
-//  Landmarks
-//
-//  Created by Anthony Joseph on 3/7/2024.
-//
+/*
+See the LICENSE.txt file for this sample’s licensing information.
+
+Abstract:
+A button that acts as a favorites indicator.
+*/
 
 import SwiftUI
 

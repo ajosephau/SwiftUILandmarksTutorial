@@ -2,7 +2,7 @@
 See the LICENSE.txt file for this sample’s licensing information.
 
 Abstract:
-A view that presents a map.
+A view that presents a map of a landmark.
 */
 
 import SwiftUI
@@ -12,7 +12,7 @@ struct MapView: View {
     var coordinate: CLLocationCoordinate2D
 
     var body: some View {
-        Map(initialPosition: .region(region))
+        Map(position: .constant(.region(region)))
     }
 
     private var region: MKCoordinateRegion {
