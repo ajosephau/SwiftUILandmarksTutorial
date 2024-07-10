@@ -149,6 +149,7 @@
 			isa = PBXGroup;
 			children = (
 				71473A882C0E9EBE00B35333 /* LandmarksApp.swift */,
+				71AE40C02C3E1D19006F0AE1 /* Category */,
 				7179FB7F2C37E54C001EA9BF /* Models */,
 				7179FB942C37E54C001EA9BF /* Views */,
 				7154BE7F2C33B452009FB033 /* Resources */,
@@ -187,8 +188,8 @@
 		7179FB7F2C37E54C001EA9BF /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				7179FB7C2C37E54C001EA9BF /* Hike.swift */,
 				7179FB7D2C37E54C001EA9BF /* Landmark.swift */,
+				7179FB7C2C37E54C001EA9BF /* Hike.swift */,
 				7179FB7E2C37E54C001EA9BF /* ModelData.swift */,
 				71AE40BD2C3E1CE4006F0AE1 /* Profile.swift */,
 			);
@@ -242,7 +243,6 @@
 		7179FB942C37E54C001EA9BF /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				71AE40C02C3E1D19006F0AE1 /* Category */,
 				71AE40BF2C3E1D12006F0AE1 /* Profiles */,
 				7179FB852C37E54C001EA9BF /* Badges */,
 				7179FB892C37E54C001EA9BF /* Helpers */,
